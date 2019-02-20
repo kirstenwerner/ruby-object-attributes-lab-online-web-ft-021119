@@ -1,7 +1,7 @@
 class Person 
   
   def name=(name)
-    @name = name.capitalize
+    @name = name
   end 
   
   def name 
